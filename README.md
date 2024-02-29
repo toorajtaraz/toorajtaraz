@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tooraj</h1>
-<h3 align="center">A passionate graduate researcher working in HPC</h3>
+<h3 align="center">A passionate graduate researcher working in HPC!</h3>
 
 - 🔭 I’m currently working on [Open MPI](https://github.com/labcaesar/ompi)
 
